@@ -16,6 +16,10 @@ Project maintainers are responsible for clarifying and enforcing our standards o
 ## Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project team.
 
+## Scope
+This Code of Conduct applies both **within project spaces** and in **public spaces when an individual is representing the project or its community**. Examples include project forums, chat channels, social media, and in-person events.
+
+
 ## Enforcement Guidelines
 Project maintainers will follow these guidelines in determining consequences for any action they deem in violation of this Code of Conduct.
 
